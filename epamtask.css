@@ -1,0 +1,36 @@
+.headline{
+	background-color: #ccccff;
+	color: white;
+}
+
+.forgot{
+	display: inline;
+}
+
+/*hr{
+	display: inline;
+}*/
+
+.or{
+	display: inline;
+}
+
+#signin{
+	background-color: #ccccff;
+	color: white;
+}
+
+#fb{
+	background-color: #6666ff;
+	color: white;
+}
+
+#google{
+	background-color: #ff6666;
+	color: white;
+}
+
+#epam{
+	background-color: #99ff33;
+	color: white;
+}
